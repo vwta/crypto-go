@@ -5,6 +5,6 @@ a simple interface connecting to
 the initial commitment sent form ASCOT PC
 modified by Staples PC 
 
-
+checked by Ascot II
 
 
